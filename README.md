@@ -24,6 +24,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    \`\`\`bash
    pip install -r requirements.txt
    \`\`\`
-4. Klasör içindeki **`GUNCELLE_VE_AC_2.bat`** dosyasına çift tıklayın.
+4. Klasör içindeki **`GUNCELLE_VE_AC_.bat`** dosyasına çift tıklayın.
 
 Bu işlem sırasıyla; güncel piyasa verilerini çekecek, haberleri güncelleyecek, yerel sunucuyu başlatacak ve arayüzü tarayıcınızda otomatik olarak açacaktır.
