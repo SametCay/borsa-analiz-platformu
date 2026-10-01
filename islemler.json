@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1780081671327,
+    "tarih": "29.05.2026 22:07:51",
+    "tip": "ALIŞ",
+    "sym": "HLGYO",
+    "fiyat": 6.08,
+    "adet": 10,
+    "toplam": 60.8,
+    "not": "Portföye eklendi"
+  },
+  {
+    "id": 1780071600149,
+    "tarih": "29.05.2026 19:20:00",
+    "tip": "ALIŞ",
+    "sym": "CCOLA",
+    "fiyat": 80.05,
+    "adet": 10,
+    "toplam": 800.5,
+    "not": "Portföye eklendi"
+  },
+  {
+    "id": 1775853235078,
+    "tarih": "10.04.2026 23:33:55",
+    "tip": "SATIŞ",
+    "sym": "BIMAS",
+    "fiyat": 751,
+    "adet": 1,
+    "toplam": 751,
+    "not": "+8.53% P&L"
+  },
+  {
+    "id": 1775737752054,
+    "tarih": "09.04.2026 15:29:12",
+    "tip": "SATIŞ",
+    "sym": "KRDMD",
+    "fiyat": 37.18,
+    "adet": 20,
+    "toplam": 743.6,
+    "not": "+26.46% P&L"
+  },
+  {
+    "id": 1773947566222,
+    "tarih": "19.03.2026 22:12:46",
+    "tip": "ALIŞ",
+    "sym": "KRDMD",
+    "fiyat": 29.4,
+    "adet": 20,
+    "toplam": 588,
+    "not": "Portföye eklendi"
+  },
+  {
+    "id": 1773945216161,
+    "tarih": "19.03.2026 21:33:36",
+    "tip": "ALIŞ",
+    "sym": "BIMAS",
+    "fiyat": 692,
+    "adet": 1,
+    "toplam": 692,
+    "not": "Portföye eklendi"
+  }
+]

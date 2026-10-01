@@ -1,0 +1,22 @@
+[
+  {
+    "sym": "CCOLA",
+    "amount": 10,
+    "buyPrice": 80.05,
+    "stopLoss": 77.759469,
+    "target": 85.394572,
+    "trailStop": 89.709469,
+    "highSince": 92,
+    "atr": 1.5270206438698335
+  },
+  {
+    "sym": "HLGYO",
+    "amount": 10,
+    "buyPrice": 6.08,
+    "stopLoss": 5.87897,
+    "target": 6.549069,
+    "trailStop": 5.87897,
+    "highSince": 6.08,
+    "atr": 0.1340198257725425
+  }
+]
